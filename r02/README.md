@@ -9,6 +9,8 @@ In this part you will write a makefile for the simple program inside the `part1`
 create the executable `test` when the command `make` is issued, and should clean up the directory when `make clean`
 is issued.
 
+[Link to Part 1](part1)
+
 ## Part 2  
 ### Unit tests  
 
@@ -22,3 +24,5 @@ int count_ones(int n);
 ```
 
 You should complete the code in `part2/test.c` to verify whether or not different solutions to this problem work correctly.
+
+[Link to Part 2](part2)
