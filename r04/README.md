@@ -25,7 +25,7 @@ Then there are four command line arguments. They are
 
 The result of running this command (`./prob1 abc de f`) should be `6`, because `abc` is three characters, `de` is 2, and `f` is 1, and `3+2+1` is 6.
 
-You will fill complete `main.c` in the `for-homework` directory. You do not need to change any other files. A Makefile is provided for you.
+You will complete `main.c` in the `for-homework` directory. You do not need to change any other files. A Makefile is provided for you.
 You can test your code by running `make test`.
 
 [Link to Homework](for-homework)
