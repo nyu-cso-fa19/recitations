@@ -23,4 +23,6 @@ some other way.
 For problem 2, you are to figure out what some assembly code (`prob2.s`) does,
 and write C code that does the same thing in `prob2.c`.
 
+You can test your work by running `make test` inside the homework directory.
+
 [Link to Homework](for-homework)
