@@ -7,3 +7,6 @@ Assignments for the FA19 CSO Recitation
 [R03 - 09/19](r03)  
 [R04 - 09/26](r04)  
 [R05 - 10/10](r05)  
+[R06 - 10/17](r06)  
+[R07 - 10/24](r07)  
+[R08 - 10/31](r08)  
