@@ -4,8 +4,8 @@
 void my_bad_function(long long index, long long value);
 
 int main(void) {
-	long long index = 11;
-	long long value = 0x4005dd;
+	long long index = 0;
+	long long value = 0;
 	my_bad_function(index, value);
 	return EXIT_FAILURE;
 }
