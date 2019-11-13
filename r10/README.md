@@ -6,7 +6,7 @@
 Your homework is in the `for-homework` directory. Note that there
 are two parts - `part1` and `part2`.
 
-#### Part 1
+### Part 1
 
 For Part 1, within the `part1` directory, you are to only change
 the `sol1.txt` file. In this part, you will be completing the
@@ -69,7 +69,7 @@ your table is improperly formatted and **GOOD FORMATTING** if
 the grading script can read your table.
 
 
-#### Part 2
+### Part 2
 
 For Part 2, within the `part2` directory, you are to only change
 the `sol2.txt` file.
