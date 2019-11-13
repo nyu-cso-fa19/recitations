@@ -58,8 +58,9 @@ Your task is to fill out the rest of the file adding a 0 or 1 after
 the `|` for whether the expression is true or false for the given
 values of the variables.
 
-The expression you are dealing with is:
-
+The expression you are dealing with is located in `expr.jpg`,
+it is also listed below:
+![(NOT a)(b + (NOT c)d) + (NOT b)(ac + d)](for-homework/part1/expr.jpg)
 
 To check if your formatting is OK, you can run `make` within the 
 `prob1` directory. Note that this will NOT tell you whether your
